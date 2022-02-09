@@ -1,0 +1,11 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container{
+    display: flex;
+    background-color: hsl(185, 75%, 39%);
+    width: 700px;
+    height: 800px;
+    font-size: 18px;
+    font-family: "kumbh Sans",sans-serif;
+}
