@@ -3,9 +3,36 @@
 
 .container{
     display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: hsl(185, 75%, 39%);
-    width: 700px;
-    height: 800px;
+    width: 1400px;
+    height: 1000px;
     font-size: 18px;
     font-family: "kumbh Sans",sans-serif;
+}
+.box{
+    background-color: white;
+    width: 350px;
+    height: 350px ;
+    border-radius: 8px;
+    filter: drop-shadow(0 0 4px black);
+}
+.content{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.numbers{
+    display:flex;
+    flex-direction:row;
+    align-items: flex-start;
+    
+}
+.box svg{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
 }
