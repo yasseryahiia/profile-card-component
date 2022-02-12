@@ -13,7 +13,7 @@ body{
     background-color:hsl(185, 75%, 39%);
     background-position:top -200% left -40px, bottom -173% right -45% ;
     background-repeat: no-repeat ;
-    background-size: 50% 80% ,65% 80%;
+    background-size: 40% 80% ,65% 74%;
     display: flex;
     flex-direction: column;
     justify-content: center;
